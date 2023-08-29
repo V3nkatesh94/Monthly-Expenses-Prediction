@@ -1,5 +1,5 @@
 # Monthly-Expenses-Prediction
-![](https://github.com/V3nkatesh94/Monthly-Expenses-Prediction/blob/main/result.png)
+![](https://github.com/V3nkatesh94/Monthly-Expenses-Prediction/tree/blob/main/result.png)
 ## Overview.
 Predicting the Monthly Expenses with help of Machine Learning Regression Model.
 
