@@ -1,8 +1,7 @@
 # Monthly-Expenses-Prediction
-![](https://github.com/V3nkatesh94/Monthly-Expenses-Prediction/blob/main/result2.png)
 ## Overview.
 Predicting the Monthly Expenses with help of Machine Learning Regression Model.
-
+![](https://github.com/V3nkatesh94/Monthly-Expenses-Prediction/blob/main/result2.png)
 ## Table of Contents
 Provide a list of sections that readers can navigate through in your README.
 
