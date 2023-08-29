@@ -17,7 +17,7 @@ Provide a list of sections that readers can navigate through in your README.
 Install srteamlit ,sklearn,pandas,numpy packages and create a conda environment.
 
 ## Dataset
-
+The "Ecommerce Customers" dataset is a fictional dataset often used for educational purposes, data analysis practice, and machine learning tutorials. It simulates customer data for an e-commerce company and includes various features that represent customer characteristics and behavior. Below is an overview of the typical features included in this dataset:
 
 ## Model Selection
 LinearRegression model is selected.
